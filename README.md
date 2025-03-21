@@ -3,7 +3,7 @@
 This Hospital Emergency Room Monthly Report is an Excel-based dashboard designed to provide key insights into emergency room operations. The dashboard helps hospital management track patient flow, waiting times, satisfaction scores, admission status, and other vital metrics.
 
 📊 Features
-✔ Number of Patients - Displays the total number of patients treated in the emergency room.
+- ✔ Number of Patients - Displays the total number of patients treated in the emergency room.
 ✔ Average Wait Time - Tracks the average time patients spend before receiving medical attention.
 ✔ Satisfaction Score - Measures patient satisfaction based on feedback.
 ✔ Admission Status - Categorizes patients into admitted and non-admitted groups.
